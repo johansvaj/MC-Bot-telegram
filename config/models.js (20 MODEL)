@@ -1,0 +1,12 @@
+module.exports = [
+  { name: "GPT-4o Mini", id: "openai/gpt-4o-mini" },
+  { name: "GPT-4o", id: "openai/gpt-4o" },
+  { name: "Claude Sonnet", id: "anthropic/claude-3-sonnet" },
+  { name: "Claude Haiku", id: "anthropic/claude-3-haiku" },
+  { name: "Gemini Pro", id: "google/gemini-1.5-pro" },
+  { name: "DeepSeek Chat", id: "deepseek/deepseek-chat" },
+  { name: "DeepSeek Coder", id: "deepseek/deepseek-coder" },
+  { name: "LLaMA 3 70B", id: "meta-llama/llama-3-70b-instruct" },
+  { name: "Qwen 72B", id: "qwen/qwen-2.5-72b-instruct" },
+  { name: "Auto Router", id: "openrouter/auto" }
+];
